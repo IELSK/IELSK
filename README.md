@@ -1,4 +1,4 @@
-### Pedrin here!
+<h1 align="center">### Pedrin here!</ h1>
 
 - 🔭 Currently teaching some basic stuff on private classes
 - 📫 You can reach me on pr.rodriguesb@outlook.com
