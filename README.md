@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently teaching **basic stuff on private classes**
 
-- 🌱 I’m currently learning **Node.js, Java and more about**
+- 🌱 I’m currently learning **Node.js, Java and more about everything I already know, always!**
 
 - 📫 How to reach me **pr.rodriguesb@outlook.com**
 
