@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Pedro Rodrigues :raised_hand_with_fingers_splayed:</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ielsk&label=Profile%20views&color=0e75b6&style=flat" alt="ielsk" /> </p>
 
