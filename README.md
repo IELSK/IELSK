@@ -27,5 +27,4 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ielsk&show_icons=true&theme=great-gatsby&layout=compact" alt="ielsk" />
 </div>
 
-
-![snake animation](https://github.com/IELSK/IELSK/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
