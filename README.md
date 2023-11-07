@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently teaching **basic stuff on private classes** and **working as fullstack on some projects**
-- 
+
 - 📫 How to reach me **pr.rodriguesb@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
