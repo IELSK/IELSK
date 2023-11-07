@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ielsk&label=Profile%20views&color=0e75b6&style=flat" alt="ielsk" /> </p>
 
 
-- 🔭 I’m currently teaching **basic stuff on private classes**
-
-- 🌱 I’m currently learning **Node.js, Java and more about everything I already know something, always!**
-
+- 🔭 I’m currently teaching **basic stuff on private classes** and **working as fullstack on some projects**
+- 
 - 📫 How to reach me **pr.rodriguesb@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
