@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pr.rodriguesb@outlook.com**
 
-- 🌐 Check out my portfolio **[here](https://www.ielsk.com.br)**
+- 🌐 Check out my portfolio **<a href="https://www.ielsk.com.br" target="_blank">here</a>**
 
 ### ⚠️ Notice
 The code available in this repository is outdated. In recent years, I have been focusing on my work and have not had the time to keep these projects updated. If you are looking for a technical demonstration, please contact me directly to request a more recent presentation.
