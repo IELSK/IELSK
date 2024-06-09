@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ielsk&label=Profile%20views&color=0e75b6&style=flat" alt="ielsk" /> </p>
 
-
 - 🔭 I’m currently teaching **basic stuff on private classes** and **working as fullstack on some projects**
 
 - 📫 How to reach me **pr.rodriguesb@outlook.com**
+
+- 🌐 Check out my portfolio **[here](https://your-portfolio-link.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +26,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ielsk&show_icons=true&theme=great-gatsby&layout=compact" alt="ielsk" />
 </div>
 
+---
+
+### ⚠️ Notice
+The code available in this repository is outdated. In recent years, I have been focusing on my work and have not had the time to keep these projects updated. If you are looking for a technical demonstration, please contact me directly to request a more recent presentation.
