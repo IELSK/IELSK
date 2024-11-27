@@ -10,7 +10,7 @@
 - 🌐 Check out my portfolio **<a href="https://www.ielsk.com.br" target="_blank">here</a>**
 
 ### ⚠️ Notice
-The code available in this repository is outdated. In recent years, I have been focusing on my work and have not had the time to keep these projects updated. If you are looking for a technical demonstration, please contact me directly to request a more recent presentation.
+The codes available here are outdated. In recent years, I have been focusing on my work and have not had the time to keep these projects updated. If you are looking for a technical demonstration, please contact me directly to request a more recent presentation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
